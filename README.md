@@ -10,7 +10,7 @@
 - 🧩 **[System design game](https://github.com/DanielPlesa/stream-staff-sim)** - a small game to test your system design knowledge based on real examples
 - 🧐 **[Staff evaluator](https://github.com/DanielPlesa/staff-evaluator-extension)** - a chrome extension to help a sourcer navigate linked
 - 📺 **[Prompter](https://github.com/DanielPlesa/prompter)** - reddit of prompts, see what your friends & followers are using as prompts
-- 🦞 **[Top contributors scrape](https://github.com/DanielPlesa/Staff-python-top-contributors)** - aggregating a list of top contributors per language
+- 💾 **[Top contributors scrape](https://github.com/DanielPlesa/Staff-python-top-contributors)** - aggregating a list of top contributors per language
 
 
 ## GitHub Activity
