@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-📍 **Amsterdam** | 🤖 **Hiring humans by day, assembling agents by night** | 🚀 **Building things i find useful and/or fun**
+📍 **Amsterdam** | 🤖 **Hiring humans by day, messing around with agents by night** | 🚀 **Building things i find useful and/or fun**
 
 
 📝 **[danielplesa.com](https://danielplesa.com/notes/about-me)** for a more detailed view of what i'm up to
